@@ -1,0 +1,253 @@
+    1  sudo apt-get notepad++
+    2  sudo apt-get notepad
+    3  sudo apt
+    4  sudo apt install brackets
+    5  sudo apt update
+    6  sudo apt install brackets
+    7  sudo apt update
+    8  sudo apt run
+    9  sudo apt update
+   10  sudo apt list
+   11  sudo apt download
+   12  sudo apt upgrade
+   13  sudo apt download brackets
+   14  sudo apt update
+   15  sudo apt upgrade
+   16  cd/home/Desktop
+   17  cd Desktop
+   18  Documents
+   19  ls
+   20  ls -a
+   21  find Desktop
+   22  mkdir MyProject
+   23  cd MyProject
+   24  touch app.js
+   25  cd Desktop mkdir MyProject2
+   26  cd Desktop
+   27  cd
+   28  cd Desktop
+   29  mkdir MyProject2
+   30  cd MyProject
+   31  cd
+   32  cd MyProject
+   33  cp app.js
+   34  cp
+   35  cp  app.js
+   36  cd Desktop
+   37  mkdir MyProject
+   38  cd MyProject
+   39  touch app.js
+   40  cd Desktop
+   41  cd
+   42  mkdir MyProject2
+   43  cd
+   44  cd MyProject
+   45  cd Desktop
+   46  cd MyProject
+   47  cp app.js
+   48  cp app.js MyProject2
+   49  cd Desktop
+   50  mkdir MyProject
+   51  cd MyProject
+   52  touch app.js
+   53  cd Desktop
+   54  cd
+   55  cd Desktop
+   56  mkdir MyProject2
+   57  cd
+   58  cd MyProject
+   59  cd Desktop
+   60  cd MyProject
+   61  cp app.js to MyProject2
+   62  cp app.js ../MyProject2
+   63  cd
+   64  pwd
+   65  cd
+   66  Desktop
+   67  cd 
+   68  ls
+   69  sudo apt-get install git
+   70  git -- version 
+   71  git --version
+   72  git open
+   73  sudo apt install git-all
+   74  sudo apt update git-all
+   75  mkdir gi-basic-exercises
+   76  cd
+   77  ls -a
+   78  mkdir git-basic-exercises
+   79  cd git-basic-exercises
+   80  ls-a
+   81  ls -a
+   82  git init
+   83  ls -a
+   84  git status
+   85  touch README.md
+   86  ls -a
+   87  git status
+   88  git log
+   89  git add
+   90  git status
+   91  git add README.md
+   92  git status
+   93  git commit -m "initial commit"
+   94  touch README.md
+   95  ls -a
+   96  git status
+   97  git reset HEAD README.md
+   98  git status
+   99  git rm --cached README.md
+  100  git status
+  101  git commit -m "initial commit"
+  102  git commit
+  103  git -m
+  104  git commit -m "initial commit"
+  105  git commit -m "initial commit
+  106  git config -- global user.email "lindokuhle.ndamane@umuzi.org"
+  107  git config -- global user.name "lindokuhlendamane25"
+  108  git commit -m "initial commit"
+  109  clear
+  110  clear
+  111  README.md
+  112  git status
+  113  git status
+  114  git config --global user.name "Lindokuhlendamane25"
+  115  git config --global user.email "lindokuhle.ndamane@umuzi.org"
+  116  mkdir git-basic-excercises
+  117  cd git-basic-exercises
+  118  ls -a
+  119  git status
+  120  git add README.md
+  121  git status
+  122  git commit -m "initial commit"
+  123  git log
+  124  q
+  125  git log
+  126  git commit -m "second commit"
+  127  sudo apt install python-q-text-as-data
+  128  git commit -m "second commit"
+  129  node README.md
+  130  nano README.dm
+  131  git status
+  132  git commit -m "second commit"
+  133  git add README.dm
+  134  git status
+  135  git commit -m "second commit"
+  136  cat README.dm
+  137  nano README.md
+  138  nano README.dm
+  139  cat README.dm
+  140  git add README.dm
+  141  git status
+  142  git commit -m "third commit"
+  143  git log
+  144  q
+  145  git checkout
+  146  commit 24c029b55c11fcb5d87685327b9a5d7a9a2d2446
+  147  git checkout commit 24c029b55c11fcb5d87685327b9a5d7a9a2d2446
+  148  git checkout 24c029b55c11fcb5d87685327b9a5d7a9a2d2446
+  149  cat README.dm
+  150  git checkout master
+  151  cat README.dm
+  152  git branch
+  153  git checkout -b
+  154  git checkout -b "milkshake-flavours"
+  155  git branches
+  156  git branch
+  157  nano milkshakes.md
+  158  git status
+  159  git add milkshakes.md
+  160  git status
+  161  git commit -m "added initial flavours"
+  162  git log
+  163  git branch
+  164  git checkout master
+  165  git commit -m "history"
+  166  git status
+  167  git add
+  168  git add milkshakes.md
+  169  git checkout -b history
+  170  git status
+  171  ls
+  172  ls -a
+  173  git branch
+  174  git checkout milkshake-flavours 
+  175  git status
+  176  ls
+  177  git checkout master
+  178  ls
+  179  history > history.txt
+  180  git commit -m "added history"
+  181  git add history.dm
+  182  git add history.txt
+  183  git status
+  184  git commit -m "added history"
+  185  git checkout milkshake-flavours
+  186  git log
+  187  nano README.dm
+  188  git checkout history
+  189  cat README.dm
+  190  git checkout history
+  191  echo "booya" > README.dm
+  192  git status
+  193  git add history.txt
+  194  function XO(str) {
+  195  } else if(str === 'xxxm' || str === 'Oo' || str === 'ooom'){
+  196  cd git-basic-exercises
+  197  git checkout master
+  198  ls
+  199  git log
+  200  git checkout master
+  201  ls
+  202  cd git-basic-exercises
+  203  git checkout master
+  204  ls
+  205  git log
+  206  git checkout milkshakes-flavours
+  207  git checkout git checkout master
+  208  cd git-basic-exercises
+  209  git log
+  210  mkdir git-basic-exercises
+  211  cd git-basic-exercises
+  212  ls -a
+  213  git init
+  214  ls -a
+  215  git status
+  216  touch README.md
+  217  ls -a
+  218  git status
+  219  git add README.md
+  220  git log
+  221  git add README.md
+  222  git status
+  223  git rm --cached README.md
+  224  git add README.md
+  225  git commit -m "initial commit"
+  226  git log
+  227  nano README.md
+  228  cat README.md
+  229  git status
+  230  git add README.md
+  231  git commit -m "second commit"
+  232  nano README.md
+  233  git add README.md
+  234  git commit -m "third commit"
+  235  git log
+  236  git checkout 10e3a494a1c0aa2521edce5b35dfd47a703ecdf2
+  237  cat README.md
+  238  git checkout master
+  239  cat README.md
+  240  git branch
+  241  git branch milkshake-flavours
+  242  git branch
+  243  git checkout milkshake-flavours
+  244  nano milkshakes.md
+  245  git status
+  246  git add milkshakes.md
+  247  git commit -m "added initial flavours"
+  248  git log
+  249  git checkout master
+  250  git branch history
+  251  git checkout historyr
+  252  git checkout history
+  253  history > history.txt
